@@ -126,4 +126,11 @@ footer {
     margin-top: 15px;
     border-radius: 8px;
     object-fit: cover;
+
 }
+
+
+.no-underline {
+      text-decoration: none;
+      color: #ffffff
+    }
